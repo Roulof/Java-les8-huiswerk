@@ -1,0 +1,19 @@
+Functionele Eisen:
+
+Producten beheren: Toevoegen, bijwerken, verwijderen en weergeven van productgegevens (CRUD).
+Voorraadbeheer: Inzicht in huidige voorraden, bijhouden van verkopen en leveringen.
+Personeelsbeheer: Toevoegen, bijwerken, verwijderen en opvragen van personeelsgegevens.
+Rechtenbeheer: Verschillende toegangsniveaus binnen de applicatie voor verschillende gebruikers.
+Verkoopinformatie: Overzicht van verkoopprijzen en aantallen per product.
+Koppelingen tussen producten: Weergeven welke producten met elkaar compatibel zijn (bijv. welke afstandsbediening bij welke tv past).
+Rapportages: Genereren van rapporten over verkopen, voorraden en personeelsgegevens.
+Zoekfunctie: Snel zoeken naar producten en personeelsleden binnen de applicatie.
+
+Niet-functionele Eisen:
+
+Gebruiksvriendelijkheid: Eenvoudige en intuïtieve gebruikersinterface.
+Prestatie: Snelle verwerking van gegevens en lage laadtijden.
+Beveiliging: Bescherming van persoonlijke en zakelijke gegevens tegen ongeautoriseerde toegang.
+Schaalbaarheid: Mogelijkheid om eenvoudig uit te breiden met meer producten of functionaliteiten.
+Betrouwbaarheid: Hoge beschikbaarheid van de applicatie met minimale downtime.
+Ondersteuning: Technische ondersteuning voor updates en onderhoud.
